@@ -1,0 +1,10 @@
+fast Zombie
+
+
+starting frames	:  1 - 42
+
+attack farames	: 43 - 60
+
+killing farames	: 61 - 76
+
+finish farames	: 77 - 92
